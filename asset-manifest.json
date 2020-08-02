@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/musify/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/musify/static/js/main.9d5f95d7.chunk.js",
+    "main.js.map": "/musify/static/js/main.9d5f95d7.chunk.js.map",
+    "runtime-main.js": "/musify/static/js/runtime-main.521fd70b.js",
+    "runtime-main.js.map": "/musify/static/js/runtime-main.521fd70b.js.map",
+    "static/js/2.f674c105.chunk.js": "/musify/static/js/2.f674c105.chunk.js",
+    "static/js/2.f674c105.chunk.js.map": "/musify/static/js/2.f674c105.chunk.js.map",
+    "index.html": "/musify/index.html",
+    "precache-manifest.be90bea8871ef7a5e46177faba6b7a9c.js": "/musify/precache-manifest.be90bea8871ef7a5e46177faba6b7a9c.js",
+    "service-worker.js": "/musify/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/musify/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f674c105.chunk.js.LICENSE.txt": "/musify/static/js/2.f674c105.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.521fd70b.js",
+    "static/js/2.f674c105.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9d5f95d7.chunk.js"
+  ]
+}
