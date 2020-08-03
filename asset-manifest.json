@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/musify/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/musify/static/js/main.9d5f95d7.chunk.js",
-    "main.js.map": "/musify/static/js/main.9d5f95d7.chunk.js.map",
-    "runtime-main.js": "/musify/static/js/runtime-main.521fd70b.js",
-    "runtime-main.js.map": "/musify/static/js/runtime-main.521fd70b.js.map",
-    "static/js/2.f674c105.chunk.js": "/musify/static/js/2.f674c105.chunk.js",
-    "static/js/2.f674c105.chunk.js.map": "/musify/static/js/2.f674c105.chunk.js.map",
-    "index.html": "/musify/index.html",
-    "precache-manifest.be90bea8871ef7a5e46177faba6b7a9c.js": "/musify/precache-manifest.be90bea8871ef7a5e46177faba6b7a9c.js",
-    "service-worker.js": "/musify/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/musify/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.f674c105.chunk.js.LICENSE.txt": "/musify/static/js/2.f674c105.chunk.js.LICENSE.txt"
+    "main.css": "/Musify/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Musify/static/js/main.538dcbf4.chunk.js",
+    "main.js.map": "/Musify/static/js/main.538dcbf4.chunk.js.map",
+    "runtime-main.js": "/Musify/static/js/runtime-main.f6ef9c0f.js",
+    "runtime-main.js.map": "/Musify/static/js/runtime-main.f6ef9c0f.js.map",
+    "static/js/2.f674c105.chunk.js": "/Musify/static/js/2.f674c105.chunk.js",
+    "static/js/2.f674c105.chunk.js.map": "/Musify/static/js/2.f674c105.chunk.js.map",
+    "index.html": "/Musify/index.html",
+    "precache-manifest.f568bcfb6a3e7422ff53d75ec2724106.js": "/Musify/precache-manifest.f568bcfb6a3e7422ff53d75ec2724106.js",
+    "service-worker.js": "/Musify/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Musify/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f674c105.chunk.js.LICENSE.txt": "/Musify/static/js/2.f674c105.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.521fd70b.js",
+    "static/js/runtime-main.f6ef9c0f.js",
     "static/js/2.f674c105.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.9d5f95d7.chunk.js"
+    "static/js/main.538dcbf4.chunk.js"
   ]
 }
