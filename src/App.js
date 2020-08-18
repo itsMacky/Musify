@@ -19,7 +19,7 @@ export default function App() {
   const [isLoading, setIsLoading] = useState(true);
 
   const handleClick = () => {
-    const urlReq = `https://saavn.sumit.codes/songs/${url}`;
+    const urlReq = `https://saavn-j5zi.onrender.com/songs/${url}`;
     setIsLoading(true);
     fetch(urlReq)
       .then(res => res.json())
@@ -30,14 +30,28 @@ export default function App() {
       });
   };
   return (
-    <div className="App">
-      <input type="text" onChange={handleChange} />
-      <button onClick={handleClick}>URL</button>
+    <div class="container">
+      <input class="form-control " placeholder="Enter Share URL" type="text" onChange={handleChange} />
+      <button class="btn btn-primary align-self-center mr-3" onClick={handleClick}>URL</button>
       {isLoading ? (
         <div></div>
       ) : (
+        
       <a href={downloadLink}> Download </a>
+      
+      // <button class="btn btn-primary align-self-center mr-3" onClick={downloadLink}> Download Link</button>
       )}
+
+      <div class="container">
+        <h3>How To Use?</h3>
+        <p>1. Visit JioSaavn Website</p>
+        <p>2. Search Your Fav Song</p>
+        <p>3. Click on Share URL</p>
+        <p>4. Copy Share Song URL </p>
+        <p>5. Paste it in Above Input Field and click URL button</p>
+        <p>6. Wait For Minimun 10 sec and Voila! You gets the Download URL</p>
+        <p>7. Enjoy</p>
+      </div>
     </div>
   );
 }
