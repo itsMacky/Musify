@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Musify/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Musify/static/js/main.538dcbf4.chunk.js",
-    "main.js.map": "/Musify/static/js/main.538dcbf4.chunk.js.map",
+    "main.js": "/Musify/static/js/main.62d169e5.chunk.js",
+    "main.js.map": "/Musify/static/js/main.62d169e5.chunk.js.map",
     "runtime-main.js": "/Musify/static/js/runtime-main.f6ef9c0f.js",
     "runtime-main.js.map": "/Musify/static/js/runtime-main.f6ef9c0f.js.map",
     "static/js/2.f674c105.chunk.js": "/Musify/static/js/2.f674c105.chunk.js",
     "static/js/2.f674c105.chunk.js.map": "/Musify/static/js/2.f674c105.chunk.js.map",
     "index.html": "/Musify/index.html",
-    "precache-manifest.f568bcfb6a3e7422ff53d75ec2724106.js": "/Musify/precache-manifest.f568bcfb6a3e7422ff53d75ec2724106.js",
+    "precache-manifest.a4ff966688e9d3847132590faa8862be.js": "/Musify/precache-manifest.a4ff966688e9d3847132590faa8862be.js",
     "service-worker.js": "/Musify/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Musify/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.f674c105.chunk.js.LICENSE.txt": "/Musify/static/js/2.f674c105.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f6ef9c0f.js",
     "static/js/2.f674c105.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.538dcbf4.chunk.js"
+    "static/js/main.62d169e5.chunk.js"
   ]
 }

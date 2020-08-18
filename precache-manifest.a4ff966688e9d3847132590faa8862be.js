@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e367fb2f3c188f5321032c1db02747b4",
+    "revision": "5d706955f395abf3a04d444a5df8df76",
     "url": "/Musify/index.html"
   },
   {
-    "revision": "fb72e58e38fcea9a5ed6",
+    "revision": "2dcfa05fba905a336562",
     "url": "/Musify/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Musify/static/js/2.f674c105.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb72e58e38fcea9a5ed6",
-    "url": "/Musify/static/js/main.538dcbf4.chunk.js"
+    "revision": "2dcfa05fba905a336562",
+    "url": "/Musify/static/js/main.62d169e5.chunk.js"
   },
   {
     "revision": "4d760875614faece959d",
